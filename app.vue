@@ -106,8 +106,8 @@ onMounted(async () => {
     <div>
         <p class="text-white">Kirishlar soni: {{ users }}</p>
     </div>
-    <div class="flex flex-wrap items-center gap-3">
-        <span class="text-white">Hamkor:</span>
+    <div class="flex flex-col md:flex-row items-start md:items-center gap-3">
+        <span class="text-white">Hamkorlar:</span>
         <a href="https://t.me/Tarix_Zehn" target="_blank" rel="noopener noreferrer" aria-label="ZEHN ACADEMY Telegram kanalini ochish">
             <img src="/zehn.jpg" alt="ZEHN ACADEMY logotipi" class="w-28 h-auto" />
         </a>
