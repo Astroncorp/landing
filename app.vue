@@ -102,17 +102,20 @@ onMounted(async () => {
             </div>
         </main>
 
-        <header class="flex flex-col md:flex-row items-start md:items-center justify-between gap-4 md:gap-2 min-h-[3rem] border-b border-gray-500/30 py-4 md:py-2 bg-teal-500 px-5">
-            <div>
-                <p class="text-white">Kirishlar soni: {{ users }}</p>
-            </div>
-            <div class="flex items-center gap-3">
-                <span class="text-white">Hamkor:</span>
-                <a href="https://arastu.uz/" target="_blank" rel="noopener noreferrer" aria-label="Arastu hamkor saytini ochish">
-                    <img src="/arastu.png" alt="Arastu logotipi" class="w-36 h-auto" />
-                </a>
-            </div>
-        </header>
+<header class="flex flex-col md:flex-row items-start md:items-center justify-between gap-4 md:gap-2 min-h-[3rem] border-b border-gray-500/30 py-4 md:py-2 bg-teal-500 px-5">
+    <div>
+        <p class="text-white">Kirishlar soni: {{ users }}</p>
+    </div>
+    <div class="flex flex-wrap items-center gap-3">
+        <span class="text-white">Hamkor:</span>
+        <a href="https://t.me/Tarix_Zehn" target="_blank" rel="noopener noreferrer" aria-label="ZEHN ACADEMY Telegram kanalini ochish">
+            <img src="/zehn.jpg" alt="ZEHN ACADEMY logotipi" class="w-28 h-auto" />
+        </a>
+        <a href="https://arastu.uz/" target="_blank" rel="noopener noreferrer" aria-label="Arastu hamkor saytini ochish">
+            <img src="/arastu.png" alt="Arastu logotipi" class="w-36 h-auto" />
+        </a>
+    </div>
+</header>
     </div>
 </template>
 
