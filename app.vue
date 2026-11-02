@@ -3,13 +3,13 @@ import astron from "~/assets/images/astron.png";
 import bgImage from "~/assets/images/image2.png";
 
 useHead({
-    title: "Astron"
+    title: "Astron | Onlayn test"
 });
 useSeoMeta({
-    title: "\"ASTRON\" - onlayn repetitor ",
-    description: "Onlayn testlar va savol javoblar joylangan Telegram ilovasi. Foydalanish qulay, oson va bepul.",
-    ogTitle: "\"ASTRON\" - onlayn repetitor ",
-    ogDescription: "Onlayn repetitor telegram ilovasi",
+    title: "Astron | Onlayn test",
+    description: "Bepul mavzulashgan va nazorat testlari joylangan Telegram ilovasi. Foydalanish qulay va oson.",
+    ogTitle: "Astron | Onlayn test",
+    ogDescription: "Bepul mavzulashgan va nazorat testlari.",
     ogImage: astron,
     keywords: "Test, onlayn test, milliy sertifikat test, reyting test, mavzulashgan test, attestatsiya test, tarix, ingliz tili, biologiya, fizika, matematika, ona tili."
 });
