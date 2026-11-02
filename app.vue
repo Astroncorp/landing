@@ -11,7 +11,7 @@ useSeoMeta({
     ogTitle: "\"ASTRON\" - onlayn repetitor ",
     ogDescription: "Onlayn repetitor telegram ilovasi",
     ogImage: astron,
-    keywords: "Test, onlayn test, repetitor, onlayn repetitor, savol, savol-javob, milliy sertifikat test, reyting test, mavzulashgan test, attestatsiya test, tarix, huquq, huquqshunoslik, sinf, sinflar."
+    keywords: "Test, onlayn test, milliy sertifikat test, reyting test, mavzulashgan test, attestatsiya test, tarix, ingliz tili, biologiya, fizika, matematika, ona tili."
 });
 
 const users = ref(0);
@@ -38,7 +38,7 @@ onMounted(async () => {
                 <!-- 1 -->
                 <div class="flex flex-col items-center text-center gap-3">
                     <p class="text-black font-bold md:text-3xl">
-                        Tarix fanidan mavzulashgan testlar, savol-javoblar, qo'llanmalar joylangan ilovaga ulanish
+                        Tarix, Ingliz tili, Biologiya, Matematika, Fizika, Ona tili fanlaridan mavzulashgan testlar joylangan ilovaga ulanish
                     </p>
                     <svg class="animate-bounce w-20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
@@ -81,7 +81,7 @@ onMounted(async () => {
                         <p class="bg-gray-600/10 rounded-full px-2 text-sm w-fit">Ilovamiz afzalliklari</p>
                         <ul class="mt-2">
                             <li>
-                                • Testlar va savollar har doim qo'lingizda, vaqt va joy cheklovlari yo'q;
+                                • Testlar har doim qo'lingizda, vaqt va joy cheklovlari yo'q;
                             </li>
                             <li>
                                 • Yo'l xarajatlari va vaqtni tejash mumkin;
