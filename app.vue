@@ -39,7 +39,7 @@ onMounted(async () => {
                 <div class="flex flex-col items-center text-center gap-3">
                     <p class="text-black font-bold md:text-3xl">
                         
-Tarix, Ingliz tili, Biologiya, Matematika, Fizika, Ona tili fanlaridan <span class="bg-emerald-500 text-white px-2 py-0.5 rounded-md">bepul</span> mavzulashgan va nazorat testlari joylangan ilovaga ulanish
+Tarix, Ingliz tili, Biologiya, Matematika, Fizika, Ona tili fanlaridan <span class="bg-emerald-500 text-white px-2 py-0.5 rounded-md">bepul</span> mavzulashgan testlar joylangan ilovaga ulanish
                     </p>
                     <svg class="animate-bounce w-20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
